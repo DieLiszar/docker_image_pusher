@@ -3,7 +3,7 @@ nginx
 mysql
 #支持私库
 infiniflow/ragflow:v0.17.0
-docker.elastic.co/elasticsearch/elasticsearch:latest
+elasticsearch:8.11.3
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 ghcr.io/yangchuansheng/ip_derper:latest
