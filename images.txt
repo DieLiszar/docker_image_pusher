@@ -1,5 +1,4 @@
 nginx
-zerotier-one
 mysql
 ragflow
 redis
