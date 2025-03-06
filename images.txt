@@ -1,5 +1,5 @@
 redis
-es01
+elasticsearch
 RAGFLOW_IMAGE
 nginx
 mysql
