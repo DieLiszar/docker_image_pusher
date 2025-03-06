@@ -1,9 +1,8 @@
 redis
-
-RAGFLOW_IMAGE
 nginx
 mysql
 #支持私库
+docker.io/infiniflow/ragflow:latest
 docker.elastic.co/elasticsearch/elasticsearch:latest
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
