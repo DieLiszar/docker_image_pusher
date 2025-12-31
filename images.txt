@@ -1,3 +1,4 @@
+lejianwen/rustdesk-api
 redis
 nginx
 mysql
